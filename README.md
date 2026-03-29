@@ -198,20 +198,6 @@ Possible applications include textile education, interior and fashion design sup
 
 ---
 
-## Contributing
-
-Contributions can improve dataset quality, model performance, documentation, deployment, and user interface design.
-
-To contribute
-
-1. Fork the repository
-2. Create a feature branch
-3. Make the required changes
-4. Commit and push updates
-5. Open a pull request
-
----
-
 ## Contact
 
 Email: [fahamidur2000@gmail.com](mailto:fahamidur2000@gmail.com) <br>
