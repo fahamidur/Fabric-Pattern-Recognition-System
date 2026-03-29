@@ -16,6 +16,18 @@ It is intended as a practical pattern-recognition system for textile education, 
 
 ---
 
+## Application Demo
+
+The interface allows users to upload a fabric image, load the trained model, and receive an instant pattern classification result. The first screenshot shows the initial application layout, while the second presents a completed prediction example where the uploaded textile image is identified successfully.
+
+### Initial Interface
+![Initial Interface](examples/a.png)
+
+### Prediction Example
+![Prediction Example](examples/b.png)
+
+---
+
 ## Recognised Pattern Classes
 
 The model is designed to classify the following 15 textile pattern categories.
@@ -162,7 +174,6 @@ A typical training workflow follows this sequence.
 textile-pattern-classifier/
 │
 ├── app.py
-├── dataset.zip
 ├── examples/
 │   ├── Animal_Print.jpg
 │   ├── Chevron.jpg
