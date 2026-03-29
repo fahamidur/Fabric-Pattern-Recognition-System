@@ -107,25 +107,6 @@ The complete workflow of the project follows a clear sequence from raw data coll
 7. Inspect performance using a confusion matrix  
 8. Fine-tune the best model further and export it  
 
----
-
-## Dependencies
-
-The main dependencies used in this project include the following.
-
-```txt
-fastai==2.7.18
-fastcore==1.7.29
-torch==2.4.1
-torchvision==0.19.1
-gradio==6.10.0
-huggingface_hub==0.33.5
-ipython==8.27.0
-pillow==10.4.0
-fasttransform==0.0.2
-cloudpickle==3.0.0
-plum-dispatch==2.5.2
-````
 
 ---
 
