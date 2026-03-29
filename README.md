@@ -17,6 +17,7 @@ It is intended as a practical pattern-recognition system for textile education, 
 ---
 
 ## Application Demo
+[link](https://huggingface.co/spaces/fahamidur2000/AI-Fabric-Classifier)<br>
 
 The interface allows users to upload a fabric image, load the trained model, and receive an instant pattern classification result. The first screenshot shows the initial application layout, while the second presents a completed prediction example where the uploaded textile image is identified successfully.
 
