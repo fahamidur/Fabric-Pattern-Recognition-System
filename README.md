@@ -1,5 +1,3 @@
-````markdown
-
 # Fabric Pattern Recognition System
 
 An image classification project that identifies 15 fabric and textile pattern categories from images using deep learning.
