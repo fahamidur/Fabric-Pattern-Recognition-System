@@ -214,5 +214,5 @@ To contribute
 
 ## Contact
 
-Email: [fahamidur2000@gmail.com](mailto:fahamidur2000@gmail.com)
+Email: [fahamidur2000@gmail.com](mailto:fahamidur2000@gmail.com) <br>
 LinkedIn: [https://www.linkedin.com/in/fahamidur/](https://www.linkedin.com/in/fahamidur/)
